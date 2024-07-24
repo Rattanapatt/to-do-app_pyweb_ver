@@ -10,4 +10,4 @@ def write_todos(todo_arg, filepath = FILEPATH):
         file.writelines(todo_arg)
         
 if __name__ == "__main__":
-    print("C")
+    print("Cl")
